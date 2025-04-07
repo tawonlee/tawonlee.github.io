@@ -1,0 +1,53 @@
+# Theme Settings Configuration File
+##
+### use settings.yml file for configure colors, ui, rtl, sidebar, animation options
+
+### Main Settings
+settings:
+  skin: "light" # select initial sking option: "light" or "dark"
+
+### Preloader
+preloader:
+  logo:
+    image: "assets/img/ober_logo.png"
+    alt: ""
+
+### Header
+header:
+  logo:
+    image: "assets/img/ober_logo.png"
+    alt: "Joé Wilson"
+
+### Social
+social:
+  - name: "Dribbble"
+    icon: "fab fa-dribbble"
+    url: "http://dribbble.com"
+
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    url: "http://twitter.com"
+
+  - name: "Behance"
+    icon: "fab fa-behance"
+    url: "http://behance.com"
+
+### Footer
+footer:
+  developer: "Developed by <strong>bslthemes</strong>"
+  copyright: "Ober. All Rights Reserved"
+
+### Portfolio Filters Settings
+portfolio:
+  filters:
+    - name: "UI UX Design"
+      slug: "ui-ux-design"
+
+    - name: "Photography"
+      slug: "photography"
+
+    - name: "Development"
+      slug: "development"
+
+    - name: "Branding"
+      slug: "branding"
