@@ -33,8 +33,8 @@ title: "Ober - CV Resume & Personal Portfolio Jekyll Theme"
 email: "leetaewon@gmail.com"
 description: "Jekyll Resume / CV / vCard / Portfolio and Personal Portfolio by bslthemes"
 author: "이태원"
-baseurl: "/ober" # the subpath of your site, e.g. /blog
-url: "https://github.com/leetaewon" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://tawonlee.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%Y-%m-%d"
 
 # paginations & permalinks
